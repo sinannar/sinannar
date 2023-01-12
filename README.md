@@ -1,14 +1,14 @@
-### Hi there, I am Sinan Nar 👋 
+### Hi there, I am Sinan Nar originally from 🇹🇷 living in 🇳🇿 👋 
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/sinannar)
 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/snn_nr)
 
+
+
 <!--
 Here are some ideas to get you started: <br>
 💬 
-🇹🇷 I born and study my university degree in Turkiye  <br>
-🇳🇿 Currently living and working in New Zealand  <br>
 🚲 I love riding my bike <br>
 🚶 Walking is my daily being active habit <br>
 -->
