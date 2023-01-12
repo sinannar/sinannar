@@ -4,9 +4,9 @@
 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/snn_nr)
 
-<a href="https://github.com/m-jovanovic">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinannar&count_private=true&show_icons=true&hide=stars" />
-</a>
+
+![Sinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinannar&show_icons=true&theme=radical)
+
 <!--
 **sinannar/sinannar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
