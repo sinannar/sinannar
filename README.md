@@ -1,4 +1,11 @@
-### Hi there, I am Sinan Nar originally from 🇹🇷 living in 🇳🇿 👋 
+### Hello 🌍
+<p> 
+ Hi there👋 <br>
+ I am Sinan Nar. I born and grow up in Turkiye🇹🇷 then migrated to New Zealand🇳🇿 <br>
+ You can find some cool informationℹ️ about me below, I tried to make it look nice🕶️ <br>
+ If you need to reach me☎️, think twice2️⃣, and if you are still keen, use <a href="https://github.com/sinannar/sinannar/edit/main/README.md#-links--contacts" target="blank">contacts</a> <br>
+ 
+</p>
 
 <!--
 ```c#
@@ -134,8 +141,10 @@ Here are some ideas to get you started: <br>
 🚶 Walking is my daily being active habit <br>
 -->
 
+
+
 <!--
-### About me
+### 🖱️ I wanted to add this because its cool
 |T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
 | | | |`P`| | | | | | |`W`|
