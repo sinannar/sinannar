@@ -55,29 +55,45 @@ var sinan = {
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Code&message=c%23&logo=csharp)
-![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Code&message=java&logo=java)
-![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Code&message=c&logo=c)
-![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Code&message=cPlusPlus&logo=cplusplus)
-![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Code&message=javascript&logo=javascript)
-![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Code&message=typescript&logo=typescript) <br>
-
 ![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Framework&message=dotnet&logo=dotnet)
-![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Framework&message=express&logo=express)
-![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Framework&message=ionic&logo=ionic)
-![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Framework&message=vue&logo=vuedotjs)
-![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Framework&message=angular&logo=angular) <br>
-
 ![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=OS&message=Windows&logo=windows)
-![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=OS&message=Ubuntu&logo=ubuntu)
-![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=OS&message=Fedora&logo=fedora)
-![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=OS&message=MacOS&logo=macos) <br>
-
 ![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Cloud&message=Azure&logo=microsoftazure)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=DB&message=MsSQL&logo=microsoftsqlserver)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Code&message=typescript&logo=typescript) 
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Tool&message=powershell&logo=powershell)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Code&message=java&logo=java)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Tool&message=windowsterminal&logo=windowsterminal)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Framework&message=angular&logo=angular) 
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=OS&message=Ubuntu&logo=ubuntu)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Tool&message=postman&logo=postman)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=DB&message=MongoDB&logo=mongodb)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Comm&message=MSTeams&logo=microsoftteams)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Code&message=c&logo=c)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=OS&message=Fedora&logo=fedora)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Tool&message=swagger&logo=swagger)
 ![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Cloud&message=Amazon&logo=amazonaws)
-![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Cloud&message=Google&logo=googlecloud) <br>
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=OS&message=MacOS&logo=macos) 
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Comm&message=slack&logo=slack)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Code&message=cPlusPlus&logo=cplusplus)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Framework&message=vue&logo=vuedotjs)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Tool&message=visualstudio&logo=visualstudio)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Cloud&message=Google&logo=googlecloud) 
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Code&message=javascript&logo=javascript)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Tool&message=VSCode&logo=visualstudiocode)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Framework&message=OpenCV&logo=opencv)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=DB&message=sqlite&logo=sqlite)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Code&message=css&logo=css3)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Identity&message=Okta&logo=okta)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Framework&message=express&logo=express)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=DB&message=postgresql&logo=postgresql)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Framework&message=ionic&logo=ionic)
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Identity&message=auth0&logo=auth0)
+
 
 
 <!--
+![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Tool&message=xamarin&logo=xamarin)
+
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2bbc8a)
 -->
