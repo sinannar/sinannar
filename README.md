@@ -52,7 +52,6 @@ var sinan = {
 ![](https://img.shields.io/static/v1?color=blue&style=for-the-badge&label=Cloud&message=Google&logo=googlecloud) <br>
 
 
-
 <!--
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2bbc8a)
