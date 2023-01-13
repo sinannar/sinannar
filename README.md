@@ -12,13 +12,31 @@ var sinan = {
 ```
 -->
 
-### 📱 Connect
+### ⚓ Links & Contacts
+<p align="left">
+  <a href="https://www.linkedin.com/in/sinannar" target="blank">
+    <img src="https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect">
+  </a>  
+  <a href="https://twitter.com/snn_nr" target="blank">
+    <img src="https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow">
+  </a>
+  <a href="mailto:sinan.nar@gmail.com" target="blank">
+    <img src="https://img.shields.io/static/v1?color=blue&label=gmail&logo=gmail&logoColor=white&style=for-the-badge&message=Email">
+  </a>
+  <a href="https://www.credly.com/users/sinan-nar" target="blank">
+    <img src="https://img.shields.io/static/v1?color=blue&label=credly&logo=credly&logoColor=white&style=for-the-badge&message=Credly">
+  </a>
+</p>
+
+<!--
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/sinannar)
 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/snn_nr)
 
-[![Gmail Badge](https://img.shields.io/static/v1?color=blue&label=gmail&logo=gmail&logoColor=white&style=for-the-badge&message=Email)](mailto:sinan.nar@gmail.com)
+[![Gmail ](https://img.shields.io/static/v1?color=blue&label=gmail&logo=gmail&logoColor=white&style=for-the-badge&message=Email)](mailto:sinan.nar@gmail.com)
 
+[![Credly](https://img.shields.io/static/v1?color=blue&label=credly&logo=credly&logoColor=white&style=for-the-badge&message=Credly)](https://www.credly.com/users/sinan-nar)
+-->
 
 <!--
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sinannar)
@@ -57,14 +75,38 @@ var sinan = {
 ![](https://img.shields.io/badge/Code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2bbc8a)
 -->
 
+### 🏅 Certifications
+<p align="left">
+  <a href="https://www.credly.com/badges/39d32fcd-76a6-4538-a9c2-6aac6897ffd0/public_url" target="blank">
+    <img src="https://raw.githubusercontent.com/sinannar/sinannar/main/files/microsoft-certified-devops-engineer-expert.png" width="100">
+  </a>
+  <a href="https://www.credly.com/badges/99e5aa47-098d-462b-a031-82791efaeaad/public_url" target="blank">
+    <img src="https://raw.githubusercontent.com/sinannar/sinannar/main/files/microsoft-certified-azure-developer-associate.1.png" width="100">
+  </a>
+  <a href="https://www.credly.com/badges/56adc3db-e294-4fa5-9c49-06b1d2856f51/public_url" target="blank">
+    <img src="https://raw.githubusercontent.com/sinannar/sinannar/main/files/microsoft-certified-azure-administrator-associate.2.png" width="100">
+  </a>
+  <a href="https://www.credly.com/badges/3f381d27-91ea-43bb-a7e0-706a0c6496b8/public_url" target="blank">
+    <img src="https://raw.githubusercontent.com/sinannar/sinannar/main/files/microsoft-certified-azure-fundamentals.png" width="100">
+  </a>
+  <a href="https://www.credly.com/badges/4af22a85-5007-45d1-ab8c-77ca5f662af0/public_url" target="blank">
+    <img src="https://raw.githubusercontent.com/sinannar/sinannar/main/files/mcsd-app-builder-certified-2019.png" width="100">
+  </a>
+  <a href="https://www.credly.com/badges/e10f8f92-a4d0-409c-bc1a-6a3f88e7e35c/public_url" target="blank">
+    <img src="https://raw.githubusercontent.com/sinannar/sinannar/main/files/mcsa-web-applications-certified-2019.png" width="100">
+  </a>
+</p>
+
 
 ### 👔 Work experience 
-| Job Position                 | Company                |  Work Period                  | Location                 |
-| ---------------------------- | -----------------------| ------------------------------|--------------------------|
-| **Lead Software Engineer**   | **First Rescue**       | **June 2019 — until now**     |Ellerslie / Auckland / NZ |
-| Full StackSoftware Engineer  | Software of Excellence | February 2018 - June 2019     |Albany / Auckland / NZ    |
-| Junior Software Engineer     | Private Flight         | February 2017 - February 2018 |CBD / Auckland / NZ       |
-| Software Engineer Intern     | Private Flight         | December 2016 — February 2017 |CBD / Auckland / NZ       |
+| Job Position                 | Company                |  Work Period                  | Location                 
+| ---------------------------- | -----------------------| ------------------------------|--------------------------
+| **Lead Software Engineer**   | **First Rescue**       | **June 2019 — until now**     |Ellerslie / Auckland / NZ 
+| Full StackSoftware Engineer  | Software of Excellence | February 2018 - June 2019     |Albany / Auckland / NZ    
+| Junior Software Engineer     | Private Flight         | February 2017 - February 2018 |CBD / Auckland / NZ       
+| Software Engineer Intern     | Private Flight         | December 2016 — February 2017 |CBD / Auckland / NZ       
+
+
 
 
 
