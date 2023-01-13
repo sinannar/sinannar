@@ -3,7 +3,7 @@
  Hi there👋 <br>
  I am Sinan Nar. I born and grow up in Turkiye🇹🇷 then migrated to New Zealand🇳🇿 <br>
  You can find some cool informationℹ️ about me below, I tried to make it look nice🕶️ <br>
- If you need to reach me☎️, think twice2️⃣, and if you are still keen, use <a href="https://github.com/sinannar/sinannar/edit/main/README.md#-links--contacts" target="blank">contacts</a> <br>
+ If you need to reach me☎️, think twice2️⃣, and if you are still keen, use <em>Links & Contacts</em> below<br>
  
 </p>
 
