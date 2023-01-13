@@ -1,4 +1,4 @@
-### Hello 🌍
+#### Hello 🌍
 <p> 
  Hi there👋 <br>
  I am Sinan Nar. I born and grow up in Turkiye🇹🇷 then migrated to New Zealand🇳🇿 <br>
@@ -19,7 +19,7 @@ var sinan = {
 ```
 -->
 
-### ⚓ Links & Contacts
+#### ⚓ Links & Contacts
 <p align="left">
   <a href="https://www.linkedin.com/in/sinannar" target="blank">
     <img src="https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect">
@@ -53,49 +53,41 @@ var sinan = {
 -->
 
 
-### 🔧 Technologies & Tools
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Code&message=c%23&logo=csharp)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Code&message=typescript&logo=typescript) 
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Code&message=c&logo=c)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Code&message=java&logo=java)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Code&message=cPlusPlus&logo=cplusplus)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Code&message=javascript&logo=javascript)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Code&message=css&logo=css3) <br>
-
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Framework&message=dotnet&logo=dotnet)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Framework&message=ionic&logo=ionic)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Framework&message=angular&logo=angular) 
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Framework&message=vue&logo=vuedotjs)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Framework&message=OpenCV&logo=opencv)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Framework&message=express&logo=express) <br>
-
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=DB&message=MsSQL&logo=microsoftsqlserver)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=DB&message=MongoDB&logo=mongodb)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=DB&message=sqlite&logo=sqlite)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=DB&message=postgresql&logo=postgresql) <br>
-
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Tool&message=swagger&logo=swagger)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Tool&message=powershell&logo=powershell)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Tool&message=windowsterminal&logo=windowsterminal)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Tool&message=postman&logo=postman)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Tool&message=visualstudio&logo=visualstudio)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Tool&message=VSCode&logo=visualstudiocode) <br>
-
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Comm&message=MSTeams&logo=microsoftteams)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Comm&message=slack&logo=slack) <br>
-
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=OS&message=Fedora&logo=fedora)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=OS&message=MacOS&logo=macos) 
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=OS&message=Windows&logo=windows)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=OS&message=Ubuntu&logo=ubuntu) <br>
-
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Cloud&message=Amazon&logo=amazonaws)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Cloud&message=Google&logo=googlecloud) 
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Cloud&message=Azure&logo=microsoftazure) <br>
-
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Identity&message=Okta&logo=okta)
-![](https://img.shields.io/static/v1?color=blue&labelColor=red&style=for-the-badge&label=Identity&message=auth0&logo=auth0) <br>
-
+#### 🔧 Technologies & Tools
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Code&message=c%23&logo=csharp)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Framework&message=dotnet&logo=dotnet)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=OS&message=Windows&logo=windows)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Cloud&message=Azure&logo=microsoftazure)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=DB&message=MsSQL&logo=microsoftsqlserver)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Code&message=typescript&logo=typescript) 
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Tool&message=powershell&logo=powershell)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Code&message=java&logo=java)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Tool&message=windowsterminal&logo=windowsterminal)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Framework&message=angular&logo=angular) 
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=OS&message=Ubuntu&logo=ubuntu)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Tool&message=postman&logo=postman)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=DB&message=MongoDB&logo=mongodb)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Comm&message=MSTeams&logo=microsoftteams)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Code&message=c&logo=c)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=OS&message=Fedora&logo=fedora)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Tool&message=swagger&logo=swagger)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Cloud&message=Amazon&logo=amazonaws)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=OS&message=MacOS&logo=macos) 
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Comm&message=slack&logo=slack)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Code&message=cPlusPlus&logo=cplusplus)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Framework&message=vue&logo=vuedotjs)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Tool&message=visualstudio&logo=visualstudio)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Cloud&message=Google&logo=googlecloud) 
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Code&message=javascript&logo=javascript)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Tool&message=VSCode&logo=visualstudiocode)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Framework&message=OpenCV&logo=opencv)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=DB&message=sqlite&logo=sqlite)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Code&message=css&logo=css3)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Identity&message=Okta&logo=okta)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Framework&message=express&logo=express)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=DB&message=postgresql&logo=postgresql)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Framework&message=ionic&logo=ionic)
+![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Identity&message=auth0&logo=auth0)
 
 
 <!--
@@ -105,7 +97,7 @@ var sinan = {
 ![](https://img.shields.io/badge/Code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2bbc8a)
 -->
 
-### 🏅 Certifications
+#### 🏅 Certifications
 <p align="left">
   <a href="https://www.credly.com/badges/39d32fcd-76a6-4538-a9c2-6aac6897ffd0/public_url" target="blank">
     <img src="https://raw.githubusercontent.com/sinannar/sinannar/main/files/microsoft-certified-devops-engineer-expert.png" width="100">
@@ -128,7 +120,7 @@ var sinan = {
 </p>
 
 
-### 👔 Work experience 
+#### 👔 Work experience 
 | Job Position                 | Company                |  Work Period                  | Location                 
 | ---------------------------- | -----------------------| ------------------------------|--------------------------
 | **Lead Software Engineer**   | **First Rescue**       | **June 2019 — until now**     |Ellerslie / Auckland / NZ 
