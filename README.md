@@ -113,11 +113,7 @@
 | | | |g|c|p| | | |p| | | |h|t|t|p|s| |
 | | | | | | | | | |t| | | | | |p| | | |
  
-# ```npx snnr```
-## ```npx snnr```
-### ```npx snnr```
-#### ```npx snnr```
-##### ```npx snnr```
+
 ###### ```npx snnr```
 
 
