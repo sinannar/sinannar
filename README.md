@@ -1,6 +1,6 @@
 ###### ```npx snnr```
 
-#### Hello 🌍
+### Hello 🌍
 <p> 
  Hi there👋 <br>
  I am Sinan Nar. I born and grow up in Turkiye🇹🇷 then migrated to New Zealand🇳🇿 <br>
@@ -9,7 +9,8 @@
  
 </p>
 
-#### ⚓ Links & Contacts
+
+### ⚓ Links & Contacts
 <p align="left">
   <a href="https://www.linkedin.com/in/sinannar" target="blank">
     <img src="https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect">
@@ -25,7 +26,7 @@
   </a>
 </p>
 
-#### 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 ![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Code&message=c%23&logo=csharp)
 ![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Framework&message=dotnet&logo=dotnet)
 ![](https://img.shields.io/static/v1?color=blue&style=plastic&label=OS&message=Windows&logo=windows)
@@ -61,7 +62,7 @@
 ![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Framework&message=ionic&logo=ionic)
 ![](https://img.shields.io/static/v1?color=blue&style=plastic&label=Identity&message=auth0&logo=auth0)
 
-#### 🏅 Certifications 
+### 🏅 Certifications 
 <p align="left">
   <a href="https://www.credly.com/badges/39d32fcd-76a6-4538-a9c2-6aac6897ffd0/public_url" target="blank">
     <img src="https://raw.githubusercontent.com/sinannar/sinannar/main/files/microsoft-certified-devops-engineer-expert.png" width="100">
@@ -84,7 +85,7 @@
 </p>
 
 
-#### 👔 Work experience 
+### 👔 Work experience 
 | Job Position                 | Company                |  Work Period                  | Location                 
 | ---------------------------- | -----------------------| ------------------------------|-------------------
 | **Lead Software Engineer**   | **First Rescue**       | **June 2019 — until now**     |<a href="https://goo.gl/maps/pvtfkE29J714bfBs6">Ellerslie/Auckland<a/> 
@@ -92,9 +93,11 @@
 | Junior Software Engineer     | Private Flight Global  | February 2017 - February 2018 |<a href="https://goo.gl/maps/Wxn7UTKeNiasyKgeA">CBD/Auckland</a>    
 | Software Engineer Intern     | Private Flight Global  | December 2016 — February 2017 |<a href="https://goo.gl/maps/Wxn7UTKeNiasyKgeA">CBD/Auckland</a>     
 
- 
+### 📋 Github Stats
+![](https://github-readme-stats.vercel.app/api?username=sinannar&show_icons=true&locale=en) <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sinannar) <br>
 
-#### 🖱️ I wanted to add this because it looks cool 😃 (have you tried ```npx snnr``` yet)
+### 🖱️ I wanted to add this because it looks cool 😃 (have you tried ```npx snnr``` yet)
 | | | | | |t|h|i|n|g|s| | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |a|z|u|r|e| | | | | | | | |i| | | | | |
