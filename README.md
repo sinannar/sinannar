@@ -65,6 +65,9 @@
 
 ### 🏅 Certifications 
 <p align="left">
+  <a href="https://www.credly.com/badges/6efb5021-0724-4ace-8aff-0617a85ccbc2/public_url" target="blank">
+    <img src="https://raw.githubusercontent.com/sinannar/sinannar/main/files/microsoft-certified-azure-solutions-architect-expert.png" width="100">
+  </a>
   <a href="https://www.credly.com/badges/39d32fcd-76a6-4538-a9c2-6aac6897ffd0/public_url" target="blank">
     <img src="https://raw.githubusercontent.com/sinannar/sinannar/main/files/microsoft-certified-devops-engineer-expert.png" width="100">
   </a>
