@@ -9,8 +9,6 @@
  
 </p>
 
-
-
 ### ⚓ Links & Contacts
 <p align="left">
   <a href="https://www.linkedin.com/in/sinannar" target="blank">
@@ -125,7 +123,5 @@
 | | | | | | | | | |t| | | | | |p| | | |
  
 
-###### ```npx snnr```
-
-
-
+### ☕️ Buy me coffee after you try ```npx snnr``` or before... I am just having fun
+<img src="https://raw.githubusercontent.com/sinannar/sinannar/main/files/bmc_qr.png" width="200">
