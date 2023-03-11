@@ -25,6 +25,10 @@
   <a href="https://www.credly.com/users/sinan-nar" target="blank">
     <img src="https://img.shields.io/static/v1?color=blue&label=credly&logo=credly&logoColor=white&style=for-the-badge&message=Credly">
   </a>
+  <a href="https://www.buymeacoffee.com/sinannar" target="blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="28">
+  </a>
+ 
 </p>
 
 ### 🔧 Technologies & Tools
@@ -122,7 +126,6 @@
  
 
 ###### ```npx snnr```
-
 
 
 
