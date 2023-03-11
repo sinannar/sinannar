@@ -124,4 +124,6 @@
  
 
 ### ☕️ Buy me coffee after you try ```npx snnr``` or before... I am just having fun
-<img src="https://raw.githubusercontent.com/sinannar/sinannar/main/files/bmc_qr.png" width="200">
+<a href="https://www.buymeacoffee.com/sinannar" target="blank">
+  <img src="https://raw.githubusercontent.com/sinannar/sinannar/main/files/bmc_qr.png" width="200">
+</a>
