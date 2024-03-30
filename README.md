@@ -94,7 +94,8 @@
 ### 👔 Work experience 
 | Job Position                 | Company                |  Work Period                  | Location                 
 | ---------------------------- | -----------------------| ------------------------------|-------------------
-| **Lead Software Engineer**   | **First Rescue**       | **June 2019 — until now**     |<a href="https://goo.gl/maps/pvtfkE29J714bfBs6">Ellerslie/Auckland<a/> 
+| Senior Software Engineer     | ERoad                  | August 2023 (CURRENT)         |<a href="https://goo.gl/maps/KfHWFncUtmu6q79j8">Albany/Auckland</a> 
+| Lead Software Engineer       | First Rescue           | June 2019 — August 2023       |<a href="https://goo.gl/maps/pvtfkE29J714bfBs6">Ellerslie/Auckland<a/> 
 | Full StackSoftware Engineer  | Software of Excellence | February 2018 - June 2019     |<a href="https://goo.gl/maps/KfHWFncUtmu6q79j8">Albany/Auckland</a>    
 | Junior Software Engineer     | Private Flight Global  | February 2017 - February 2018 |<a href="https://goo.gl/maps/Wxn7UTKeNiasyKgeA">CBD/Auckland</a>    
 | Software Engineer Intern     | Private Flight Global  | December 2016 — February 2017 |<a href="https://goo.gl/maps/Wxn7UTKeNiasyKgeA">CBD/Auckland</a>     
