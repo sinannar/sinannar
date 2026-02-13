@@ -94,7 +94,7 @@
 ### 👔 Work experience 
 | Job Position                 | Company                |  Work Period                  | Location                 
 | ---------------------------- | -----------------------| ------------------------------|-------------------
-| Consultant                   | ARINCO                 | May 2025 (CURRENT)            |<a href="https://goo.gl/maps/KfHWFncUtmu6q79j8">CBD/Auckland</a> 
+| Consultant                   | ARINCO                 | May 2025 (CURRENT)            |<a href="https://maps.app.goo.gl/PMXGXT89ymKCU4iw8">CBD/Auckland</a> 
 | Senior Software Engineer     | ERoad                  | August 2023 - May 2025        |<a href="https://goo.gl/maps/KfHWFncUtmu6q79j8">Albany/Auckland</a> 
 | Lead Software Engineer       | First Rescue           | June 2019 — August 2023       |<a href="https://goo.gl/maps/pvtfkE29J714bfBs6">Ellerslie/Auckland<a/> 
 | Full StackSoftware Engineer  | Software of Excellence | February 2018 - June 2019     |<a href="https://goo.gl/maps/KfHWFncUtmu6q79j8">Albany/Auckland</a>    
